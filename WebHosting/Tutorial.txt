@@ -1,1 +1,3 @@
 https://readwrite.com/2014/06/27/raspberry-pi-web-server-website-hosting/
+
+SSH Tut: https://readwrite.com/2014/04/09/raspberry-pi-projects-ssh-remote-desktop-static-ip-tutorial/#awesm=~oHt6ZNCfyofCiA
