@@ -1,1 +1,1 @@
-//todo
+pcmanfm --desktop-pref
